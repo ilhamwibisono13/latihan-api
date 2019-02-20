@@ -1,0 +1,123 @@
+{
+  "mahasiswa" : [{
+  "id": 1,
+  "name": "Forbes Mellody",
+  "gender": "Male"
+}, {
+  "id": 2,
+  "name": "Caryl Gendricke",
+  "gender": "Male"
+}, {
+  "id": 3,
+  "name": "Jenna Lisciandro",
+  "gender": "Female"
+}, {
+  "id": 4,
+  "name": "Kaela Blondell",
+  "gender": "Female"
+}, {
+  "id": 5,
+  "name": "Joel Gillett",
+  "gender": "Male"
+}, {
+  "id": 6,
+  "name": "Kizzie Panther",
+  "gender": "Female"
+}, {
+  "id": 7,
+  "name": "Mead Molines",
+  "gender": "Male"
+}, {
+  "id": 8,
+  "name": "Norene Cheyenne",
+  "gender": "Female"
+}, {
+  "id": 9,
+  "name": "Ethelda Wimpeney",
+  "gender": "Female"
+}, {
+  "id": 10,
+  "name": "Veronika Scollard",
+  "gender": "Female"
+}, {
+  "id": 11,
+  "name": "Sonny O'Donnelly",
+  "gender": "Male"
+}, {
+  "id": 12,
+  "name": "Nadean Beaument",
+  "gender": "Female"
+}, {
+  "id": 13,
+  "name": "Tiffany Binden",
+  "gender": "Female"
+}, {
+  "id": 14,
+  "name": "Lia Fysh",
+  "gender": "Female"
+}, {
+  "id": 15,
+  "name": "Dulsea McTiernan",
+  "gender": "Female"
+}, {
+  "id": 16,
+  "name": "Mignonne Beebis",
+  "gender": "Female"
+}, {
+  "id": 17,
+  "name": "Georas Capelin",
+  "gender": "Male"
+}, {
+  "id": 18,
+  "name": "Ellene Pietsma",
+  "gender": "Female"
+}, {
+  "id": 19,
+  "name": "Pansy Kording",
+  "gender": "Female"
+}, {
+  "id": 20,
+  "name": "Gabe Stoppard",
+  "gender": "Male"
+}, {
+  "id": 21,
+  "name": "Glenda Mazey",
+  "gender": "Female"
+}, {
+  "id": 22,
+  "name": "Blayne Pentycross",
+  "gender": "Male"
+}, {
+  "id": 23,
+  "name": "Roger Challenor",
+  "gender": "Male"
+}, {
+  "id": 24,
+  "name": "Brock Pretti",
+  "gender": "Male"
+}, {
+  "id": 25,
+  "name": "Merridie Lorman",
+  "gender": "Female"
+}, {
+  "id": 26,
+  "name": "Tabina Nast",
+  "gender": "Female"
+}, {
+  "id": 27,
+  "name": "Vic Chillistone",
+  "gender": "Male"
+}, {
+  "id": 28,
+  "name": "Sandro Hablet",
+  "gender": "Male"
+}, {
+  "id": 29,
+  "name": "Zaccaria Wallworke",
+  "gender": "Male"
+}, {
+  "id": 30,
+  "name": "Tami Bottle",
+  "gender": "Female"
+}]
+}
